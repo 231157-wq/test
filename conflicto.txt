@@ -1,1 +1,2 @@
-"Esta es la linea que va a causar el problema." 
+"Esta es la linea que va a causar el problema.
+"�La rama A quiere esta otra linea en su lugar!" 
