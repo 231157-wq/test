@@ -1,1 +1,1 @@
-"Esta linea fue cambiada por la RAMA-B." 
+"­La rama B insiste en usar esta otra linea!" 
