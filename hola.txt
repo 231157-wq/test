@@ -1,1 +1,1 @@
-"­La version de MAIN se mantiene, modificada!" 
+Hola mundo actualizado
