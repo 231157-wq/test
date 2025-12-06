@@ -1,2 +1,1 @@
-"­La version de MAIN se mantiene, modificada!" 
-mandando a mi git
+Hola mundo actualizado
