@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 type hola.txt
 Hola mundo actualizado
 Archivo modificado desde GitHub
+=======
+Archivo modificado desde GitHub gaaa
+>>>>>>> 91348b330e958f16cbf739e1dbfd1040d7fa42d7
